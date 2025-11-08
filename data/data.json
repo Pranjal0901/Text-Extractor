@@ -1,0 +1,823 @@
+[
+  {
+    "question": "What does TCS stand for?",
+    "answer": "TCS stands for Tata Consultancy Services."
+  },
+  {
+    "question": "When was TCS founded?",
+    "answer": "TCS was founded in 1968."
+  },
+  {
+    "question": "Where is the headquarters of TCS located?",
+    "answer": "TCS is headquartered in Mumbai, India."
+  },
+  {
+    "question": "Who is the CEO of TCS?",
+    "answer": "As of 2025, the CEO of TCS is K. Krithivasan."
+  },
+  {
+    "question": "What are the main services offered by TCS?",
+    "answer": "TCS offers IT services, consulting, business solutions, cloud services, and enterprise solutions."
+  },
+  {
+    "question": "Does TCS provide digital transformation services?",
+    "answer": "Yes, TCS provides digital transformation services including AI, cloud, analytics, and automation solutions."
+  },
+  {
+    "question": "How many countries does TCS operate in?",
+    "answer": "TCS operates in over 50 countries worldwide."
+  },
+  {
+    "question": "What is TCS’s approach to sustainability?",
+    "answer": "TCS focuses on sustainable practices by reducing carbon footprint, promoting renewable energy, and engaging in CSR activities."
+  },
+  {
+    "question": "Does TCS have a campus recruitment program?",
+    "answer": "Yes, TCS conducts an extensive campus recruitment program across multiple universities in India and globally."
+  },
+  {
+    "question": "What are some key industries TCS serves?",
+    "answer": "TCS serves industries including banking, finance, healthcare, retail, telecom, and manufacturing."
+  },
+  {
+    "question": "Is TCS listed on the stock exchange?",
+    "answer": "Yes, TCS is listed on the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE) in India."
+  },
+  {
+    "question": "What is the Tata Business Excellence Model?",
+    "answer": "The Tata Business Excellence Model is a framework used by TCS to drive organizational excellence and performance improvement."
+  },
+  {
+    "question": "Does TCS provide learning and development programs?",
+    "answer": "Yes, TCS offers continuous learning programs, certifications, and leadership development initiatives for employees."
+  },
+  {
+    "question": "What is TCS’s revenue in recent years?",
+    "answer": "TCS reported a revenue of over $30 billion USD in the recent fiscal year."
+  },
+  {
+    "question": "What are TCS’s major global delivery centers?",
+    "answer": "TCS has major delivery centers in India, the USA, UK, Canada, Australia, and Europe."
+  },
+  {
+    "question": "Does TCS offer AI services?",
+    "answer": "Yes, TCS offers AI-driven solutions, including machine learning, NLP, computer vision, and automation."
+  },
+  {
+    "question": "What is TCS’s stance on work from home?",
+    "answer": "TCS offers flexible work options including remote work, hybrid work, and office-based work depending on client and project needs."
+  },
+  {
+    "question": "How can one contact TCS for corporate inquiries?",
+    "answer": "You can contact TCS via their official website contact page or email corporate@tcs.com for business inquiries."
+  },
+  {
+    "question": "Does TCS collaborate with universities?",
+    "answer": "Yes, TCS collaborates with universities worldwide for research, internships, and skill development programs."
+  },
+  {
+    "question": "What is TCS iON?",
+    "answer": "TCS iON is a strategic unit of TCS providing cloud-based solutions for small businesses, students, and educational institutions."
+  },
+  {
+    "question": "What is the mission of TCS?",
+    "answer": "The mission of TCS is to help customers achieve their business objectives by providing innovative, best-in-class consulting, IT solutions, and services."
+  },
+  {
+    "question": "Does TCS have a presence in the US?",
+    "answer": "Yes, TCS has a strong presence in the United States with multiple offices and delivery centers across major cities."
+  },
+  {
+    "question": "What is TCS’s approach to innovation?",
+    "answer": "TCS focuses on innovation through its Co-Innovation Network (COIN), research labs, and partnerships with startups and academia."
+  },
+  {
+    "question": "How does TCS support employee well-being?",
+    "answer": "TCS provides wellness programs, health insurance, mental health initiatives, and work-life balance support to its employees."
+  },
+  {
+    "question": "What is TCS Digital?",
+    "answer": "TCS Digital is the unit that focuses on digital solutions, consulting, and transformation services for clients globally."
+  },
+  {
+    "question": "Does TCS provide consulting services?",
+    "answer": "Yes, TCS offers business and IT consulting services to help organizations optimize processes and drive growth."
+  },
+  {
+    "question": "What certifications does TCS hold?",
+    "answer": "TCS holds ISO certifications, CMMI Level 5 certification, and other quality and security standards certifications."
+  },
+  {
+    "question": "Does TCS have a corporate social responsibility program?",
+    "answer": "Yes, TCS engages in CSR activities focusing on education, healthcare, community development, and environmental sustainability."
+  },
+  {
+    "question": "What is TCS Pace Port?",
+    "answer": "TCS Pace Port is an innovation hub that brings together clients, startups, and academia to co-create and accelerate solutions."
+  },
+  {
+    "question": "Does TCS provide cloud services?",
+    "answer": "Yes, TCS provides cloud consulting, migration, management, and optimization services across multiple cloud platforms."
+  },
+  {
+    "question": "How can one apply for a job at TCS?",
+    "answer": "One can apply for jobs at TCS through the official careers portal on the TCS website or via campus recruitment drives."
+  },
+  {
+    "question": "What technologies does TCS specialize in?",
+    "answer": "TCS specializes in AI, ML, IoT, cloud computing, cybersecurity, blockchain, and enterprise applications."
+  },
+  {
+    "question": "Does TCS have partnerships with tech companies?",
+    "answer": "Yes, TCS has strategic partnerships with companies like Microsoft, IBM, Google, SAP, and Oracle to deliver solutions to clients."
+  },
+  {
+    "question": "What is TCS iON Career Edge?",
+    "answer": "TCS iON Career Edge is a platform that provides skill development, career guidance, and online assessment services to students."
+  },
+  {
+    "question": "Does TCS have research and development centers?",
+    "answer": "Yes, TCS has several R&D centers focused on emerging technologies and next-generation solutions for clients."
+  },
+  {
+    "question": "How does TCS support diversity and inclusion?",
+    "answer": "TCS promotes diversity and inclusion by supporting women, differently-abled individuals, and multicultural teams across the organization."
+  },
+  {
+    "question": "What is TCS BaNCS?",
+    "answer": "TCS BaNCS is a banking and financial services platform offering end-to-end solutions for core banking, insurance, and capital markets."
+  },
+  {
+    "question": "Does TCS offer internships?",
+    "answer": "Yes, TCS offers internships to students in IT, consulting, and digital services across various locations."
+  },
+  {
+    "question": "What is TCS Cloud Studios?",
+    "answer": "TCS Cloud Studios is a collaborative environment where clients and TCS experts co-create cloud solutions and digital transformation strategies."
+  },
+  {
+    "question": "Does TCS have a global delivery model?",
+    "answer": "Yes, TCS follows a global delivery model to provide services and solutions efficiently to clients worldwide."
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2022?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you tell me the recipe for chocolate cake?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the weather like in Paris today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is the current president of the United States?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Tell me about the latest Marvel movie.",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I fix a leaking tap at home?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What are the top 10 tourist attractions in Italy?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you teach me how to play the guitar?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the stock price of Tesla today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the Oscars this year?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is TCS’s approach to cybersecurity?",
+    "answer": "TCS provides end-to-end cybersecurity solutions including threat management, risk assessment, and secure IT infrastructure services."
+  },
+  {
+    "question": "Does TCS offer blockchain solutions?",
+    "answer": "Yes, TCS offers blockchain solutions for banking, supply chain, and enterprise applications."
+  },
+  {
+    "question": "What is TCS MasterCraft?",
+    "answer": "TCS MasterCraft is an automation and quality engineering platform that helps organizations improve software quality and accelerate delivery."
+  },
+  {
+    "question": "How does TCS support startups?",
+    "answer": "TCS supports startups through its COIN network, partnerships, mentorship, and technology solutions for scaling their businesses."
+  },
+  {
+    "question": "What is TCS Ignio?",
+    "answer": "TCS Ignio is an AI-driven software platform for IT operations, helping organizations with automation, incident management, and predictive analytics."
+  },
+  {
+    "question": "Does TCS have a presence in Europe?",
+    "answer": "Yes, TCS operates in multiple European countries including the UK, Germany, France, and the Netherlands."
+  },
+  {
+    "question": "What is TCS’s focus on AI and automation?",
+    "answer": "TCS focuses on AI and automation to improve business efficiency, customer experience, and operational intelligence across industries."
+  },
+  {
+    "question": "Does TCS have a code of conduct?",
+    "answer": "Yes, TCS has a comprehensive code of conduct ensuring ethical business practices, integrity, and compliance with legal regulations."
+  },
+  {
+    "question": "What is TCS’s role in digital banking?",
+    "answer": "TCS provides digital banking solutions through platforms like TCS BaNCS, enabling banks to offer secure, scalable, and innovative financial services."
+  },
+  {
+    "question": "How does TCS invest in employee learning?",
+    "answer": "TCS invests in learning through programs like TCS Elevate, online courses, certifications, and global learning academies."
+  },
+  {
+    "question": "What is TCS’s policy on gender equality?",
+    "answer": "TCS promotes gender equality through initiatives supporting women in leadership, flexible work, and equal opportunities across the organization."
+  },
+  {
+    "question": "Does TCS provide IoT solutions?",
+    "answer": "Yes, TCS provides IoT solutions for smart cities, manufacturing, healthcare, and logistics to enhance connectivity and automation."
+  },
+  {
+    "question": "What is TCS’s cloud adoption framework?",
+    "answer": "TCS offers a structured cloud adoption framework to help organizations migrate, manage, and optimize cloud environments effectively."
+  },
+  {
+    "question": "Does TCS offer enterprise software solutions?",
+    "answer": "Yes, TCS provides enterprise software solutions including ERP, CRM, analytics, and business intelligence platforms."
+  },
+  {
+    "question": "What is TCS’ strategy for digital transformation?",
+    "answer": "TCS helps organizations with strategy, consulting, technology integration, and process optimization to achieve digital transformation goals."
+  },
+  {
+    "question": "Does TCS have patents in technology?",
+    "answer": "Yes, TCS holds numerous patents in areas like AI, cloud, automation, and software development innovations."
+  },
+  {
+    "question": "How does TCS contribute to education?",
+    "answer": "TCS contributes to education through scholarships, digital learning initiatives, skill development programs, and TCS iON platform."
+  },
+  {
+    "question": "What are TCS’s delivery methodologies?",
+    "answer": "TCS follows agile, DevOps, design thinking, and global delivery methodologies to ensure high-quality client solutions."
+  },
+  {
+    "question": "Does TCS provide consulting in sustainability?",
+    "answer": "Yes, TCS provides sustainability consulting to help organizations reduce carbon footprint, adopt green technologies, and meet ESG goals."
+  },
+  {
+    "question": "What is TCS’s approach to AI ethics?",
+    "answer": "TCS emphasizes responsible AI by ensuring transparency, fairness, and ethical use of AI technologies in business solutions."
+  },
+  {
+    "question": "What is TCS’ approach to sustainability in IT operations?",
+    "answer": "TCS implements green IT practices, energy-efficient data centers, and sustainable technology solutions to minimize environmental impact."
+  },
+  {
+    "question": "Does TCS provide DevOps services?",
+    "answer": "Yes, TCS offers DevOps services to automate software delivery, improve collaboration, and accelerate application deployment."
+  },
+  {
+    "question": "What is TCS Cloudscape?",
+    "answer": "TCS Cloudscape is a consulting and advisory service helping organizations evaluate, design, and implement cloud strategies effectively."
+  },
+  {
+    "question": "How does TCS support smart city initiatives?",
+    "answer": "TCS supports smart cities through IoT, analytics, mobility solutions, and infrastructure management services."
+  },
+  {
+    "question": "Does TCS provide data analytics solutions?",
+    "answer": "Yes, TCS provides advanced analytics, business intelligence, big data, and AI-powered decision support solutions."
+  },
+  {
+    "question": "What is TCS’ policy on employee skill upgradation?",
+    "answer": "TCS encourages continuous learning with certifications, workshops, online courses, and leadership development programs."
+  },
+  {
+    "question": "Does TCS offer solutions for the healthcare sector?",
+    "answer": "Yes, TCS provides healthcare IT solutions including patient management, telemedicine, analytics, and hospital management systems."
+  },
+  {
+    "question": "What is TCS’ role in fintech solutions?",
+    "answer": "TCS provides fintech solutions including digital payments, risk management, core banking platforms, and regulatory compliance systems."
+  },
+  {
+    "question": "How does TCS implement AI in business processes?",
+    "answer": "TCS integrates AI for automation, predictive analytics, customer experience enhancement, and intelligent decision-making."
+  },
+  {
+    "question": "Does TCS provide cybersecurity training?",
+    "answer": "Yes, TCS offers cybersecurity training programs for employees, clients, and partners to build secure IT practices."
+  },
+  {
+    "question": "What is TCS Enterprise Mobility?",
+    "answer": "TCS Enterprise Mobility solutions help businesses develop mobile applications, enhance workforce productivity, and improve customer engagement."
+  },
+  {
+    "question": "Does TCS offer cloud-native application development?",
+    "answer": "Yes, TCS provides cloud-native application development using microservices, containerization, and serverless architecture."
+  },
+  {
+    "question": "What is TCS’ approach to RPA (Robotic Process Automation)?",
+    "answer": "TCS leverages RPA to automate repetitive business processes, increase efficiency, and reduce operational costs."
+  },
+  {
+    "question": "Does TCS provide IT outsourcing services?",
+    "answer": "Yes, TCS provides IT outsourcing including application management, infrastructure services, and helpdesk support."
+  },
+  {
+    "question": "What is TCS’ Global Network Delivery Model?",
+    "answer": "It is TCS’ methodology to deliver projects efficiently across geographies using distributed teams and standardized processes."
+  },
+  {
+    "question": "How does TCS support corporate innovation?",
+    "answer": "TCS promotes innovation through COIN, innovation labs, hackathons, and partnerships with startups and universities."
+  },
+  {
+    "question": "Does TCS have initiatives for digital learning in schools?",
+    "answer": "Yes, TCS supports digital learning in schools via TCS iON digital classrooms, e-learning platforms, and teacher training programs."
+  },
+  {
+    "question": "What is TCS’ approach to agile transformation?",
+    "answer": "TCS helps organizations adopt agile methodologies, transforming project delivery with flexibility, collaboration, and faster time-to-market."
+  },
+  {
+    "question": "Does TCS provide services for telecom companies?",
+    "answer": "Yes, TCS offers IT solutions, network management, digital services, and customer experience solutions for telecom operators."
+  },
+  {
+    "question": "What is TCS’ strategy for enterprise digital security?",
+    "answer": "TCS implements comprehensive security frameworks including risk assessment, threat detection, incident management, and compliance adherence."
+  },
+  {
+    "question": "What is TCS’ approach to sustainability and environmental responsibility?",
+    "answer": "TCS is committed to sustainability by implementing green IT practices, optimizing energy consumption in data centers, using renewable energy sources, and engaging in environmental conservation projects as part of its CSR initiatives."
+  },
+  {
+    "question": "How does TCS support skill development for students?",
+    "answer": "TCS supports skill development through TCS iON digital learning platforms, online courses, certifications, internships, workshops, and partnerships with educational institutions worldwide."
+  },
+  {
+    "question": "What is TCS’ contribution to digital banking?",
+    "answer": "TCS provides comprehensive digital banking solutions including TCS BaNCS, core banking modernization, digital payment solutions, risk and compliance management, and AI-powered customer analytics for banks globally."
+  },
+  {
+    "question": "Does TCS offer AI-powered automation services?",
+    "answer": "Yes, TCS offers AI-powered automation solutions that include robotic process automation (RPA), intelligent chatbots, predictive analytics, and process optimization across multiple industries."
+  },
+  {
+    "question": "What is TCS’ approach to diversity and inclusion?",
+    "answer": "TCS promotes diversity and inclusion by implementing policies that support women in leadership, multicultural teams, people with disabilities, LGBTQ+ inclusion, and fostering an equitable work environment globally."
+  },
+  {
+    "question": "How does TCS support startups through innovation?",
+    "answer": "TCS supports startups through its COIN network, offering mentorship, co-innovation labs, technology platforms, funding support, and partnerships to help scale innovative solutions rapidly."
+  },
+  {
+    "question": "Does TCS provide cloud migration services?",
+    "answer": "Yes, TCS provides end-to-end cloud migration services including assessment, planning, migration execution, optimization, and ongoing management across public, private, and hybrid cloud platforms."
+  },
+  {
+    "question": "What is TCS Ignio and how does it help businesses?",
+    "answer": "TCS Ignio is an AI-powered software platform that helps organizations automate IT operations, predict and resolve incidents, optimize resources, and improve overall operational efficiency."
+  },
+  {
+    "question": "How does TCS contribute to the healthcare sector?",
+    "answer": "TCS provides healthcare solutions including hospital management systems, telemedicine platforms, patient analytics, regulatory compliance tools, and AI-driven solutions to improve healthcare delivery and patient experience."
+  },
+  {
+    "question": "What is TCS MasterCraft and its significance?",
+    "answer": "TCS MasterCraft is a suite of software engineering tools designed for automation, quality management, process optimization, and software delivery acceleration, helping organizations improve productivity and reduce errors."
+  },
+  {
+    "question": "Does TCS provide consulting services for digital transformation?",
+    "answer": "Yes, TCS offers consulting services that guide organizations through digital transformation, including strategy design, process re-engineering, technology adoption, and change management."
+  },
+  {
+    "question": "What are TCS’ global delivery centers?",
+    "answer": "TCS operates delivery centers in over 50 countries, including India, USA, UK, Canada, Australia, Germany, and Singapore, enabling it to serve clients efficiently worldwide with local expertise."
+  },
+  {
+    "question": "How does TCS implement cybersecurity solutions?",
+    "answer": "TCS provides comprehensive cybersecurity solutions including threat intelligence, risk assessment, incident response, secure software development, and managed security services to protect client infrastructure."
+  },
+  {
+    "question": "What is TCS’ approach to enterprise mobility?",
+    "answer": "TCS helps organizations develop enterprise mobility solutions that enhance workforce productivity, mobile application management, secure remote access, and digital engagement with customers and partners."
+  },
+  {
+    "question": "Does TCS provide IoT solutions for industries?",
+    "answer": "Yes, TCS offers IoT solutions for manufacturing, smart cities, healthcare, and logistics, enabling real-time monitoring, predictive maintenance, process automation, and data-driven insights."
+  },
+  {
+    "question": "What is TCS’ policy on employee training and development?",
+    "answer": "TCS emphasizes continuous learning through training programs, online courses, leadership development initiatives, certifications, hackathons, and mentoring to enhance employee skills and career growth."
+  },
+  {
+    "question": "How does TCS engage in corporate social responsibility?",
+    "answer": "TCS CSR initiatives focus on education, health, environment, and community development, including digital classrooms, scholarship programs, health camps, and environmental conservation projects."
+  },
+  {
+    "question": "What is TCS Cloud Studios?",
+    "answer": "TCS Cloud Studios is a collaborative platform where clients and TCS experts co-create cloud solutions, test digital innovations, and implement cloud strategies for digital transformation."
+  },
+  {
+    "question": "Does TCS offer blockchain services?",
+    "answer": "Yes, TCS provides blockchain services for supply chain, banking, identity management, and enterprise applications to improve transparency, security, and efficiency."
+  },
+  {
+    "question": "What is TCS iON Career Edge?",
+    "answer": "TCS iON Career Edge is a platform that provides students and professionals with skill development, online assessments, certifications, and career guidance to enhance employability."
+  },
+  {
+    "question": "How does TCS support smart manufacturing?",
+    "answer": "TCS provides smart manufacturing solutions using IoT, AI, analytics, and automation to optimize production processes, reduce downtime, and improve supply chain efficiency."
+  },
+  {
+    "question": "Does TCS provide ERP and enterprise software solutions?",
+    "answer": "Yes, TCS offers ERP, CRM, business intelligence, and enterprise software solutions tailored for various industries to streamline business operations."
+  },
+  {
+    "question": "What is TCS’ approach to agile and DevOps?",
+    "answer": "TCS helps organizations adopt agile methodologies and DevOps practices to enhance collaboration, accelerate delivery, improve quality, and reduce time-to-market for software solutions."
+  },
+  {
+    "question": "How does TCS leverage AI in business analytics?",
+    "answer": "TCS uses AI in business analytics to provide predictive insights, automate data analysis, enhance decision-making, and optimize business operations across industries."
+  },
+  {
+    "question": "Does TCS collaborate with universities and research institutions?",
+    "answer": "Yes, TCS collaborates with universities and research institutions worldwide for innovation, co-development of technologies, research programs, and student skill development."
+  },
+  {
+    "question": "What is TCS BaNCS?",
+    "answer": "TCS BaNCS is a comprehensive banking and financial services platform offering solutions for core banking, insurance, capital markets, wealth management, and digital banking."
+  },
+  {
+    "question": "How does TCS implement responsible AI?",
+    "answer": "TCS ensures responsible AI by adopting ethical guidelines, fairness principles, transparency, and compliance with regulations to build trustworthy AI solutions for clients."
+  },
+  {
+    "question": "Does TCS provide services for the telecom sector?",
+    "answer": "Yes, TCS provides IT solutions, network optimization, customer experience management, and digital services tailored for telecom companies globally."
+  },
+  {
+    "question": "What is TCS’ approach to innovation labs?",
+    "answer": "TCS operates innovation labs that focus on emerging technologies like AI, IoT, blockchain, and cloud, enabling clients to co-create solutions and test new ideas."
+  },
+  {
+    "question": "How does TCS support digital education initiatives?",
+    "answer": "TCS supports digital education through TCS iON, e-learning platforms, digital classrooms, teacher training, skill-building programs, and scholarships to empower students globally."
+  },
+  {
+    "question": "Does TCS provide cloud-native application development?",
+    "answer": "Yes, TCS helps organizations develop cloud-native applications using microservices, containerization, serverless architecture, and modern DevOps practices to ensure scalability and agility."
+  },
+  {
+    "question": "What is TCS Enterprise Solutions?",
+    "answer": "TCS Enterprise Solutions is a suite of services and platforms that helps businesses transform operations, optimize processes, integrate systems, and leverage technology for growth."
+  },
+  {
+    "question": "How does TCS support AI-driven customer experience?",
+    "answer": "TCS leverages AI, chatbots, analytics, and automation to enhance customer engagement, provide personalized services, and improve satisfaction across industries."
+  },
+  {
+    "question": "What is TCS’ policy on corporate ethics?",
+    "answer": "TCS follows a strict code of ethics, ensuring integrity, transparency, accountability, compliance with laws, and ethical business practices across all operations."
+  },
+  {
+    "question": "Does TCS provide predictive analytics solutions?",
+    "answer": "Yes, TCS provides predictive analytics using AI and machine learning to help businesses forecast trends, optimize operations, and make data-driven decisions."
+  },
+  {
+    "question": "What is TCS’ approach to business consulting?",
+    "answer": "TCS provides business consulting services to optimize processes, enhance efficiency, implement technology solutions, and support strategic growth initiatives."
+  },
+  {
+    "question": "How does TCS support smart retail solutions?",
+    "answer": "TCS delivers smart retail solutions using AI, analytics, IoT, and cloud to optimize inventory, personalize customer experiences, and improve supply chain efficiency."
+  },
+  {
+    "question": "Does TCS offer IT infrastructure management services?",
+    "answer": "Yes, TCS provides IT infrastructure management including cloud management, data center services, network monitoring, security management, and IT operations support."
+  },
+  {
+    "question": "What is TCS’ focus on digital workplace solutions?",
+    "answer": "TCS provides digital workplace solutions to enable remote collaboration, secure communication, employee productivity tools, and smart office automation."
+  },
+  {
+    "question": "How does TCS implement automation in finance operations?",
+    "answer": "TCS implements automation in finance operations using RPA, AI-based analytics, and workflow optimization to improve accuracy, efficiency, and compliance."
+  },
+  {
+    "question": "What is TCS’ role in the manufacturing sector?",
+    "answer": "TCS provides digital manufacturing solutions including smart factory implementation, IoT monitoring, predictive maintenance, and supply chain optimization."
+  },
+  {
+    "question": "Does TCS offer enterprise mobility management?",
+    "answer": "Yes, TCS offers enterprise mobility management solutions to secure mobile devices, manage applications, and improve workforce productivity."
+  },
+  {
+    "question": "How does TCS support digital marketing for clients?",
+    "answer": "TCS provides digital marketing solutions including analytics-driven campaigns, customer insights, social media strategy, and personalized customer engagement tools."
+  },
+  {
+    "question": "What is TCS’ approach to blockchain adoption?",
+    "answer": "TCS helps clients adopt blockchain for secure transactions, supply chain transparency, identity management, and decentralized business processes."
+  },
+  {
+    "question": "Does TCS provide services for energy and utilities?",
+    "answer": "Yes, TCS offers IT and digital solutions for energy and utility companies including smart grids, predictive maintenance, and energy management systems."
+  },
+  {
+    "question": "What is TCS’ AI and analytics platform?",
+    "answer": "TCS leverages AI and analytics platforms to provide insights, predictive modeling, business intelligence, and process automation for organizations globally."
+  },
+  {
+    "question": "How does TCS implement digital twin solutions?",
+    "answer": "TCS creates digital twin solutions by simulating physical systems using IoT, AI, and analytics to optimize performance, reduce downtime, and improve decision-making."
+  },
+  {
+    "question": "Does TCS provide solutions for the insurance sector?",
+    "answer": "Yes, TCS offers insurance solutions including policy management, claims automation, regulatory compliance, customer analytics, and digital engagement tools."
+  },
+  {
+    "question": "What is TCS’ approach to cloud security?",
+    "answer": "TCS provides cloud security solutions including identity and access management, threat detection, data encryption, and compliance management to secure cloud environments."
+  },
+  {
+    "question": "How does TCS support AI in healthcare?",
+    "answer": "TCS applies AI in healthcare for predictive diagnostics, patient management, operational efficiency, personalized care, and drug discovery research."
+  },
+  {
+    "question": "Does TCS offer solutions for government and public services?",
+    "answer": "Yes, TCS provides IT and digital solutions for government services including e-governance, citizen services, analytics, cloud adoption, and secure data management."
+  },
+  {
+    "question": "What is TCS’ role in digital supply chain management?",
+    "answer": "TCS leverages AI, IoT, and analytics to optimize supply chains, improve inventory management, enhance logistics, and reduce operational costs for organizations."
+  },
+  {
+    "question": "How does TCS help clients with cloud adoption strategy?",
+    "answer": "TCS assists clients with cloud strategy through assessment, planning, migration, optimization, and management of cloud services for seamless digital transformation."
+  },
+  {
+    "question": "Does TCS provide IT consulting services?",
+    "answer": "Yes, TCS provides IT consulting services including enterprise architecture, technology roadmap planning, system integration, and digital transformation advisory."
+  },
+  {
+    "question": "What is TCS’ approach to sustainability reporting?",
+    "answer": "TCS follows global sustainability reporting standards, disclosing environmental impact, CSR activities, ethical practices, and initiatives towards carbon neutrality."
+  },
+  {
+    "question": "How does TCS implement AI in banking?",
+    "answer": "TCS integrates AI in banking to automate processes, detect fraud, enhance customer insights, improve risk management, and provide personalized financial services."
+  },
+  {
+    "question": "Does TCS provide solutions for logistics and transportation?",
+    "answer": "Yes, TCS provides logistics and transportation solutions including route optimization, fleet management, predictive maintenance, and supply chain analytics."
+  },
+  {
+    "question": "What is TCS’ approach to smart city solutions?",
+    "answer": "TCS implements smart city solutions using IoT, cloud, analytics, and AI to improve urban infrastructure, traffic management, energy efficiency, and citizen services."
+  },
+  {
+    "question": "How does TCS ensure quality in software development?",
+    "answer": "TCS follows rigorous quality assurance practices including automated testing, code reviews, agile methodologies, continuous integration, and DevOps pipelines."
+  },
+  {
+    "question": "Does TCS provide remote IT support services?",
+    "answer": "Yes, TCS offers remote IT support, monitoring, troubleshooting, and managed services to ensure uninterrupted business operations for clients."
+  },
+  {
+    "question": "What is TCS’ contribution to corporate social responsibility?",
+    "answer": "TCS focuses on CSR in education, skill development, environmental sustainability, healthcare, and community welfare programs globally."
+  },
+  {
+    "question": "How does TCS implement AI for predictive maintenance?",
+    "answer": "TCS uses AI, IoT sensors, and analytics to predict equipment failures, optimize maintenance schedules, reduce downtime, and lower operational costs."
+  },
+  {
+    "question": "Does TCS provide consulting for digital transformation in retail?",
+    "answer": "Yes, TCS helps retail businesses with digital transformation, including omnichannel strategies, AI-powered customer insights, inventory optimization, and smart logistics."
+  },
+  {
+    "question": "What is TCS’ focus on responsible technology?",
+    "answer": "TCS emphasizes responsible technology by ensuring ethical AI, secure data handling, sustainable IT practices, and inclusive innovation across industries."
+  },
+  {
+    "question": "How does TCS support data-driven decision making?",
+    "answer": "TCS enables data-driven decisions through advanced analytics, AI, visualization tools, predictive models, and actionable insights for organizations globally."
+  },
+  {
+    "question": "Does TCS offer digital consulting for manufacturing companies?",
+    "answer": "Yes, TCS provides digital consulting for manufacturing including smart factory implementation, IoT integration, process automation, and operational analytics."
+  },
+  {
+    "question": "What is TCS’ approach to knowledge management?",
+    "answer": "TCS uses knowledge management systems to capture, store, and share expertise, best practices, and intellectual property across the organization."
+  },
+  {
+    "question": "How does TCS implement AI in human resources?",
+    "answer": "TCS applies AI in HR for talent acquisition, performance analytics, employee engagement, workforce planning, and predictive career pathing."
+  },
+  {
+    "question": "Does TCS provide digital solutions for financial services?",
+    "answer": "Yes, TCS provides digital solutions for banks, insurance companies, and capital markets, including core system modernization, mobile banking, and analytics-driven decision support."
+  },
+  {
+    "question": "What is TCS’ approach to innovation hubs?",
+    "answer": "TCS operates innovation hubs that facilitate co-creation, research, and development in emerging technologies like AI, IoT, cloud, and blockchain to solve complex business challenges."
+  },
+  {
+    "question": "How does TCS engage with government digital initiatives?",
+    "answer": "TCS partners with governments to implement digital initiatives including e-governance platforms, citizen services, digital infrastructure, and secure data management solutions."
+  },
+  {
+    "question": "Does TCS offer cloud cost optimization services?",
+    "answer": "Yes, TCS provides cloud cost optimization by analyzing resource usage, recommending cost-efficient architectures, and implementing cloud management best practices."
+  },
+  {
+    "question": "What is TCS’ approach to smart energy solutions?",
+    "answer": "TCS implements smart energy solutions using IoT, AI, and analytics to optimize energy consumption, monitor grids, and reduce carbon emissions for clients and cities."
+  },
+  {
+    "question": "How does TCS provide end-to-end digital transformation?",
+    "answer": "TCS delivers end-to-end digital transformation through strategy consulting, IT modernization, cloud adoption, AI integration, process automation, and change management."
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2022?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you give me the recipe for lasagna?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the stock price of Apple today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is the current president of the United States?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Tell me about the latest Marvel movie.",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I fix a leaking tap at home?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What are the top tourist attractions in Italy?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you teach me how to play the guitar?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the Oscars this year?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the weather forecast in Tokyo today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you tell me how to repair my car engine?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is the author of Harry Potter?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I bake chocolate chip cookies?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What are the latest cryptocurrency prices?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the last Olympic gold medal in swimming?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you give me a travel guide for New York?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the plot of the latest Netflix series?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I learn to play chess?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the fastest animal in the world?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is Elon Musk married to?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the FIFA World Cup in 2022?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you give me the recipe for lasagna?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the stock price of Apple today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is the current president of the United States?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Tell me about the latest Marvel movie.",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I fix a leaking tap at home?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What are the top tourist attractions in Italy?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you teach me how to play the guitar?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the Oscars this year?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the weather forecast in Tokyo today?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you tell me how to repair my car engine?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is the author of Harry Potter?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I bake chocolate chip cookies?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What are the latest cryptocurrency prices?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who won the last Olympic gold medal in swimming?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Can you give me a travel guide for New York?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the plot of the latest Netflix series?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "How do I learn to play chess?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "What is the fastest animal in the world?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  },
+  {
+    "question": "Who is Elon Musk married to?",
+    "answer": "I'm sorry, I can only provide information related to TCS."
+  }
+]
+
+
+
+
+
