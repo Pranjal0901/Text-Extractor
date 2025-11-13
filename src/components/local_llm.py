@@ -1,6 +1,5 @@
-from langchain_ollama import Ollama
-from langchain_community.llms import LLM
-
+from langchain_ollama import OllamaLLM
+from langchain_core.language_models.llms import LLM
 
 class LoadLLM:
     """
@@ -15,7 +14,7 @@ class LoadLLM:
         llm = llm_loader.get_model()
     """
 
-    def __init__(self, model_name: str = "mistral", temperature: float = 0.2, num_ctx: int = 4096):
+    def __init__(self, model_name: str = "phi", temperature: float = 0.2, num_ctx: int = 4096):
         self.model_name = model_name
         self.temperature = temperature
         self.num_ctx = num_ctx
@@ -29,7 +28,7 @@ class LoadLLM:
         Internal method to load the local Ollama model.
         """
         try:
-            self.llm = Ollama(
+            self.llm = OllamaLLM(
                 model=self.model_name,
                 temperature=self.temperature,
                 num_ctx=self.num_ctx
