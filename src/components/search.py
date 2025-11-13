@@ -10,9 +10,8 @@ load_dotenv()
 
 class RAGSearch:
     """
-    LCEL-based RAG pipeline (recommended for LangChain 1.x).
-    Retrieves company-relevant information & answers strictly
-    sales/marketing related questions using a local LLM.
+     Retrieves company-relevant information & answers strictly
+     sales/marketing related questions using a local LLM.
     """
 
     def __init__(self, persist_dir: str = "faiss_store", embedding_model: str = "all-MiniLM-L6-v2"):

@@ -33,7 +33,7 @@ def ask():
         return jsonify({"response": "Please enter a valid question."})
     
     print(f"[USER] {user_input}")
-    answer = rag_pipeline.search(user_input)
+    answer = rag_pipeline.search_and_summarize(user_input)
     print(f"[BOT] {answer}")
     return jsonify({"response": answer})
 
